@@ -1,2 +1,4 @@
 # LP-III
-Semester 7 SPPU
+
+### Codes for SPPU BE Computer Engineering (Semester 7)
+#### Subjects: Design and Analysis of Algorithms (DAA), Blockchain Technology (BT), Machine Learning (ML)
